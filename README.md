@@ -4,9 +4,13 @@
 > E-mail：ta0ran@163.com <br>
 
 
-> **About me** : Hello, My name is **ran**. I'm a student researching on power system optimization and deep reinforcement learing. I would like to share some works (theories, codes, etc.) in my usual study through this project. This repository is named "power system optimization" mainly to distinguish it from other fields of power system, such as stability analysis, power electronics, etc. I believe that you can see some methods or algorithm in literature reading, but you didn't know how to use the program to achieve them. I will share what I have achieved in the form of "detailed descriptions + codes" to you, so as to avoid to reinvent wheels repeatedly.  
-
-​	                                                   **Welcome to discuss with me~** :smile:
+> Any questions or requests, [create an issues](https://github.com/itaoxiaoran/power-system-optimization/issues).
+>
+> 任何问题或需求，请[提issues](https://github.com/itaoxiaoran/power-system-optimization/issues)，支持中文。
+>
+> **Welcome to discuss with me~** :smile:
+>
+> **期待与你讨论！**:smile:
 
 ## Contents
 
