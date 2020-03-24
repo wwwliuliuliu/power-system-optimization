@@ -14,7 +14,7 @@
 
 
 
-View more solutions of **Power System Optimization**, you can [skip to](https://github.com/itaoxiaoran/power-system-optimization) my another repository.
+View more solutions of **Power System Optimization**, you can [skip to](https://github.com/itaoxiaoran/power-system-optimization) my other projects.
 
 ## Contents
 

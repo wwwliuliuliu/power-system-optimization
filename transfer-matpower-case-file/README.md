@@ -12,7 +12,7 @@
 > You'd better install the Chrome plugin: [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) to view the formula.  
 
 
-View more solutions of **Power System Optimization**, you can [skip to](https://github.com/itaoxiaoran/power-system-optimization) my another repository.
+View more solutions of **Power System Optimization**, you can [skip to](https://github.com/itaoxiaoran/power-system-optimization) my other projects.
 
 ## Contents
 
