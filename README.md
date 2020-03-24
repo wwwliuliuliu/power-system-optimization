@@ -80,7 +80,7 @@ the **Transferring Matpower Case File to CSV Foramt** can help you use the Matpo
 > **write2csv.m** for transferring the case file to CSV format file  
 > **Required**: numpy, pandas, sys, MATLAB, Matpower    
 
-Start directly: [click here](https://github.com/itaoxiaoran/transfer-matpower-case-file)
+Start directly: [click here](/transfer-matpower-case-file)
 
 ## DC Power Flow
 
@@ -92,73 +92,73 @@ the DC Power Flow can help you to calculate the DC power flow in Python.
 > **dcpf.m** for calculating the DC power flow in Python  
 > **Required**: numpy, pandas, sys, prettytable(optional)  
 
-Start directly: [click here](https://github.com/itaoxiaoran/dc-power-flow)
+Start directly: [click here](/dc-power-flow)
 
 ## AC Power Flow
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/ac-power-flow)
+Start directly: [click here](ac-power-flow)
 
 ## DC Optimal Power Flow
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/dc-optimal-power-flow)
+Start directly: [click here](dc-optimal-power-flow)
 
 ## AC Optimal Power Flow
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/ac-optimal-power-flow)
+Start directly: [click here](ac-optimal-power-flow)
 
 ## Multi-objective Optimal Power Flow
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/multi-objective-power-flow)
+Start directly: [click here](/multi-objective-power-flow)
 
 ## Small Amount of Real Active Load Data
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/real-load-data)
+Start directly: [click here](/real-load-data)
 
 ## Load Forecasting
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/load-forecasting)
+Start directly: [click here](/load-forecasting)
 
 ## Uniform pricing market clearance
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/uniform-pricing-electricity-market)
+Start directly: [click here](/uniform-pricing-electricity-market)
 
 ## Nodal pricing market clearance
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/nodal-pricing-electricity-market)
+Start directly: [click here](/nodal-pricing-electricity-market)
 
 ## Joint energy and reserve market clearance
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/joint-energy-and-reserve-electricity-market)
+Start directly: [click here](/joint-energy-and-reserve-electricity-market)
 
 ## Quick start Power System Optimization by Pyomo
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/quick-start-power-system-optimization-by-Pyomo)
+Start directly: [click here](/quick-start-power-system-optimization-by-Pyomo)
 
 ## Some Useful Tools
 
 waiting...
 
-Start directly: [click here](https://github.com/itaoxiaoran/useful-tools-for-power-system)
+Start directly: [click here](/useful-tools-for-power-system)
 
 
 
