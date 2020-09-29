@@ -43,5 +43,5 @@ if __name__ == '__main__':
     # you can run this
     # and change the filePath, i.e. filePath='C:/case5'
     # filePath = 'X:/.../caseName/'
-    filePath ='F:/本地_华电_研究生/pycase/case5/'
+    filePath ='./pycase/case5/'
     bus_df, gen_df, brch_df, gencost_df = getDataFrame(path=filePath)
